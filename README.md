@@ -1,3 +1,3 @@
-# Prosjekt for TDT4100 objektorientert programmering V2022
+# Project for TDT4100 object oriented programming spring 2022
 
 
